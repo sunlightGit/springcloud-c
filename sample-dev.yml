@@ -6,3 +6,4 @@ spring.datasource.type=com.alibaba.druid.pool.DruidDataSource
 spring.datasource.driver-class-name=oracle.jdbc.driver.OracleDriver
 spring.datasource.mybatis.config-locations=classpath:mybatis/mybatis-config.xml
 spring.datasource.mybatis.mapper-locations=classpath:mybatis/mapper/**/*.xml
+foo=123
